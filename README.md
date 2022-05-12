@@ -1,2 +1,8 @@
-# SMTP-Checker
-A Tool For automate check valid SMTP list
+# How To Use
+
+```bash
+pip3 install -r require.txt
+```
+```bash
+python3 main.py
+```
